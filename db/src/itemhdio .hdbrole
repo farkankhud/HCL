@@ -1,0 +1,13 @@
+{
+     "role": {
+          "name": "ITEMHDIO#",
+          "object_privileges": [
+               {
+                    "name": "APP_INTERACTIONS_EMPLOYEE",
+                    "type": "TABLE",
+                    "privileges_with_grant_option": [ "SELECT", "INSERT" ]
+               }
+ 
+          ]
+     }
+ }
